@@ -1,60 +1,35 @@
 {
   "main": {
-    "id": "dd9fdcd6ab9218b2",
+    "id": "42b1b00ad846f488",
     "type": "split",
     "children": [
       {
-        "id": "1fda859be99e2a3a",
+        "id": "6a2825050f85b54a",
         "type": "tabs",
         "children": [
           {
-            "id": "d6602a82e38b868e",
+            "id": "15433104bc98df55",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "07dd2bfdf45f0e9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engines.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90d4d0e55935c035",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ограничения Clickhouse.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "12fbf4665bedf427",
+    "id": "bfdd2533dbf74264",
     "type": "split",
     "children": [
       {
-        "id": "4ed59a37a348d8a5",
+        "id": "ecdf7d03c550260b",
         "type": "tabs",
         "children": [
           {
-            "id": "2113b2a1f52eb422",
+            "id": "9949f61c23ebd051",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -64,7 +39,7 @@
             }
           },
           {
-            "id": "20a763e26079e925",
+            "id": "606d8b2ffa31ad06",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -79,7 +54,7 @@
             }
           },
           {
-            "id": "c7131563c0be663b",
+            "id": "2880eee86d705886",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -93,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "1d626b649309b143",
+    "id": "bda707f48f7f51ae",
     "type": "split",
     "children": [
       {
-        "id": "7c5ce2d2d1e44991",
+        "id": "19c13f64cbcb7d69",
         "type": "tabs",
         "children": [
           {
-            "id": "6a483cad3e274a9c",
+            "id": "e747d7cb0977976e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,19 +92,18 @@
             }
           },
           {
-            "id": "d31e6afa00a7ef0d",
+            "id": "fd1c7c0d70d190b9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "b7920f1986cf4b76",
+            "id": "1da31c9e80745c1e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -141,13 +114,11 @@
             }
           },
           {
-            "id": "cf20ce95e31ae7fb",
+            "id": "f14eaf2e5d8a129a",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Engines.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -167,10 +138,13 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "2113b2a1f52eb422",
+  "active": "15433104bc98df55",
   "lastOpenFiles": [
-    "Engines.md",
-    "Ограничения Clickhouse.md",
-    "Что такое Clickhouse.md"
+    "Принципы проектирования.md",
+    "Паттерны проектирования.md",
+    "Поведенческие паттерны/Стратегия.md",
+    "Структурные паттерны.md",
+    "Поведенческие паттерны/Поведенческие паттерны.md",
+    "Порождающие паттерны/Порождающие паттерны.md"
   ]
 }
