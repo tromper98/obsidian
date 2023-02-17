@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "dd9fdcd6ab9218b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "1fda859be99e2a3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6602a82e38b868e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "07dd2bfdf45f0e9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engines.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90d4d0e55935c035",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ограничения Clickhouse.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "12fbf4665bedf427",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ed59a37a348d8a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2113b2a1f52eb422",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "20a763e26079e925",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c7131563c0be663b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1d626b649309b143",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c5ce2d2d1e44991",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a483cad3e274a9c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d31e6afa00a7ef0d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b7920f1986cf4b76",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cf20ce95e31ae7fb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "d6602a82e38b868e",
+  "lastOpenFiles": [
+    "Движки таблиц.md",
+    "Engines.md",
+    "Движки баз данных.md",
+    "Ограничения Clickhouse.md",
+    "Что такое Clickhouse.md"
+  ]
+}
