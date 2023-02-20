@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clickhouse/Engines.md",
+                "file": "Software/clickhouse/Семейства таблиц/MergeTree Family/SummingMergeTree.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 208.5
   },
   "right": {
     "id": "f6e3780fcf382a3c",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clickhouse/Engines.md",
+                "file": "Software/clickhouse/Семейства таблиц/MergeTree Family/SummingMergeTree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clickhouse/Engines.md",
+                "file": "Software/clickhouse/Семейства таблиц/MergeTree Family/SummingMergeTree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clickhouse/Engines.md"
+                "file": "Software/clickhouse/Семейства таблиц/MergeTree Family/SummingMergeTree.md"
               }
             }
           }
@@ -148,13 +148,15 @@
   },
   "active": "cedd671ba8ace04c",
   "lastOpenFiles": [
+    "Software/clickhouse/Семейства таблиц/MergeTree Family/MergeTree Family.md",
+    "Software/clickhouse/Семейства таблиц/MergeTree Family/SummingMergeTree.md",
+    "Software/clickhouse/Семейства таблиц/MergeTree Family/ReplacingMergeTree.md",
+    "Software/clickhouse/Семейства таблиц/MergeTree Family/MergeTree.md",
+    "Software/clickhouse/Семейства таблиц/MergeTree Family/AggregatingMergeTree.md",
+    "Software/Pasted image 20230217142801.png",
     "Clickhouse/Что такое Clickhouse.md",
     "Clickhouse/Ограничения Clickhouse.md",
     "OOD/Поведенческие паттерны/Паттерн Наблюдатель.md",
-    "OOD/Принцип открытости/закрытости 1.md",
-    "OOD/Паттерны проектирования.md",
-    "OOD/Принципы проектирования.md",
-    "OOD/SOLID/Принципы SOLID.md",
-    "OOD/Структурные паттерны.md"
+    "OOD/Принцип открытости/закрытости 1.md"
   ]
 }
