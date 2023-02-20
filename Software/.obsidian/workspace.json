@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "42b1b00ad846f488",
+    "id": "b6bfad7280e573f1",
     "type": "split",
     "children": [
       {
-        "id": "bf7c3e31e1ed6ff9",
+        "id": "7d6e9288cce672bd",
         "type": "tabs",
         "children": [
           {
-            "id": "921fc02a6698ae04",
+            "id": "3116beb26e71d09f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "clickhouse/Семейства таблиц/Выбор первичного ключа.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "bfdd2533dbf74264",
+    "id": "388c603ef90b4240",
     "type": "split",
     "children": [
       {
-        "id": "ecdf7d03c550260b",
+        "id": "693b96b9df19008b",
         "type": "tabs",
         "children": [
           {
-            "id": "9949f61c23ebd051",
+            "id": "e451e6c57b44b18b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +43,7 @@
             }
           },
           {
-            "id": "606d8b2ffa31ad06",
+            "id": "204f70470b20628b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +58,7 @@
             }
           },
           {
-            "id": "2880eee86d705886",
+            "id": "ee22e5450daf1e22",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -68,19 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "bda707f48f7f51ae",
+    "id": "6bb301f20ba05522",
     "type": "split",
     "children": [
       {
-        "id": "19c13f64cbcb7d69",
+        "id": "0a5689f2e172a1fc",
         "type": "tabs",
         "children": [
           {
-            "id": "e747d7cb0977976e",
+            "id": "02678db856fa1c44",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "clickhouse/Семейства таблиц/Выбор первичного ключа.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +97,19 @@
             }
           },
           {
-            "id": "fd1c7c0d70d190b9",
+            "id": "e7ce020c0390749b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "clickhouse/Семейства таблиц/Выбор первичного ключа.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "1da31c9e80745c1e",
+            "id": "071ae0ed5ebacabe",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,11 +120,13 @@
             }
           },
           {
-            "id": "f14eaf2e5d8a129a",
+            "id": "bb20c33906f5a379",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "clickhouse/Семейства таблиц/Выбор первичного ключа.md"
+              }
             }
           }
         ]
@@ -138,17 +146,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "921fc02a6698ae04",
+  "active": "3116beb26e71d09f",
   "lastOpenFiles": [
-    "SOLID/Принцип единственной ответственности.md",
-    "SOLID/Принципы SOLID.md",
-    "SOLID/Принцип открытости-закрытости.md",
-    "Без названия 1.md",
-    "Без названия.md",
-    "Паттерны проектирования.md",
-    "Принцип открытости/закрытости.md",
-    "Принцип открытости/закрытости 1.md",
-    "Принципы проектирования.md",
-    "Поведенческие паттерны/Стратегия.md"
+    "clickhouse/Особенности Clickhouse.md",
+    "clickhouse/Рекомендации.md",
+    "clickhouse/Семейства таблиц/Выбор первичного ключа.md",
+    "clickhouse/Семейства таблиц/MergeTree.md",
+    "clickhouse/Семейства таблиц/Хранение данных в MergeTree.md",
+    "clickhouse/Движки таблиц.md",
+    "clickhouse/Engines.md",
+    "clickhouse/Семейства таблиц/MergeTree Family.md",
+    "clickhouse/Что такое Clickhouse.md",
+    "Без названия.canvas"
   ]
 }
