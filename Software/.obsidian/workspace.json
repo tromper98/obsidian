@@ -4,55 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7d6e9288cce672bd",
+        "id": "6ca329915d916b2d",
         "type": "tabs",
         "children": [
           {
-            "id": "3116beb26e71d09f",
+            "id": "7f22372913d1118d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "clickhouse/Семейства таблиц/Выбор первичного ключа.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3918c5e7ff05514f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "clickhouse/Семейства таблиц/Конкурентный доступ к данным.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de24013ca510f06e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "clickhouse/Семейства таблиц/TTL для столбов и таблиц.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b4d1be00e2030814",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,17 +138,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "e451e6c57b44b18b",
+  "active": "7f22372913d1118d",
   "lastOpenFiles": [
+    "clickhouse/Семейства таблиц/MergeTree Family/MergeTree Family.md",
+    "clickhouse/Семейства таблиц/MergeTree Family/MergeTree.md",
+    "clickhouse/Семейства таблиц/MergeTree Family/CollapsingMergeTree.md",
     "clickhouse/Engines.md",
-    "clickhouse/Семейства таблиц/Конкурентный доступ к данным.md",
     "clickhouse/Семейства таблиц/Особенности работы MergeTree.md",
+    "clickhouse/Семейства таблиц/Конкурентный доступ к данным.md",
     "clickhouse/Семейства таблиц/TTL для столбов и таблиц.md",
     "clickhouse/Семейства таблиц/Создание первичного ключа, отличного от ключа сортировки.md",
     "clickhouse/Семейства таблиц/Выбор первичного ключа.md",
-    "clickhouse/Особенности Clickhouse.md",
-    "clickhouse/Рекомендации.md",
-    "clickhouse/Семейства таблиц/MergeTree.md",
-    "clickhouse/Семейства таблиц/Хранение данных в MergeTree.md"
+    "clickhouse/Особенности Clickhouse.md"
   ]
 }
